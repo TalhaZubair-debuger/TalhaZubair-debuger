@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TalhaZubair-debuger
-- 👀 I’m interested in app development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on basic c++ projects so that i can have some pracice
 - 📫 to reach me contact at talhazubair.info@gmail.com
