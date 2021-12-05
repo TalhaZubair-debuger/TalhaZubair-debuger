@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TalhaZubair-debuger
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on basic c++ projects so that i can have some pracice
+- ✔  I'm Currently working as a Front-end Developer using HTML, CSS, JavaScript
+- 🌱 I’m also currently learning c++
+- 💞️ I’m looking to collaborate on web development projects to get more hands on experience
 - 📫 to reach me contact at talhazubair.info@gmail.com
