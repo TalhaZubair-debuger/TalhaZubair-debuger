@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalhaZubair-debuger
-- 👀 I’m interested in web development
-- ✔  I'm Currently working as a Front-end Developer using ReactJs, JavaScript, Angular and Material UI
-- 🌱 I’m also currently learning MERN Stack
+- 👀 I’m interested in software development
+- ✔  I'm Currently working as a Associate Software engineer using MERN Stack
+- 🌱 I’m also currently learning NextJs & NestJs
 - 💞️ I’m looking to collaborate on web development projects to get more hands on experience
 - 📫 to reach me contact at talhazubair.info@gmail.com
